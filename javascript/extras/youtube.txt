@@ -1,0 +1,14 @@
+// shorts
+1. Swap two numbers (using array destructuring) (shorts) (js problems playlist)
+2. Centre a div (via flex and via grids)
+3. Set and Maps ( and implementation with arrays)
+4. shallow and deep clone (with prim and non prim key differences)
+
+
+
+
+// long
+1. Amplitude with react
+2. Okta with react [access and refresh tokens]
+3. JSReport
+4. Create a custom global hook (using array destructuring)

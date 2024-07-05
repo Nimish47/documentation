@@ -1,0 +1,32 @@
+// front-end
+leaflet - used in election comission website
+chart.js
+
+
+//react
+lazy load
+router v6
+infinite scroll
+formik and yup
+redux - thunk and saga
+optimisation hooks
+react v19 changes
+higher order comps
+error boundary
+portals
+signals
+
+//javascript
+arrow functions
+this keyword
+closures
+currying
+es 2019
+shallow vs deep clone
+async loops
+pure functions
+scoping in js
+prototypes
+throttling
+
+//css

@@ -1,0 +1,8 @@
+//Doubts
+
+1. If array is non-primitive,
+    - why copying and modifying it won't update original array
+    - even if array contains prims or non-prim values, original array not modifies
+    - modifying an object copy, on the contrary modifies original array
+    - are arrays really non-primitives?
+2.    

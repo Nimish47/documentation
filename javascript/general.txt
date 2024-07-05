@@ -1,1 +1,0 @@
-What is base64 and why is it used?

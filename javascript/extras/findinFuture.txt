@@ -1,0 +1,24 @@
+1. what is a compiler?
+2. what is an interpretor?
+3. compiler vs interpretor
+4. use strict? what and is it still needed?
+5. Symbols?
+6. exact meaning of null
+7. exact meaning of primitive vs non-primitive/reference type [in terms of memory etc]
+8. static typed language vs dynamic typed language
+9. memory - value and reference concept in javascript
+10. how memory allocaltion occurs in js
+11. shallow vs deep copy
+12*. when copying a variable - which data types create duplicate reference and which ones point to original reference
+     (see 12_memory-non-primitive.js)
+13. understand memory management of all - primitive and non-primitive data types  
+14. Different types of iterables in js - Arrays, Objects etc etc [Array.keys(), Array.values(), Array.entries()]    
+15. adv* Difference b/w toString vs valueOf in strings
+16. sort an array of strings (ascending and descending order)
+17. best way to check if input is array?
+18. string.charAt(x) VS string[x]?
+19. What is the difference between String.slice and String.substring?
+20. What is base64 and why is it used?
+21. "in" keyword
+22. when to use indexOf (also compare with map)
+23. null vs undefined

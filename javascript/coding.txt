@@ -1,7 +1,0 @@
-1. Iterate over an array of objects and replace one object
-    obj = [{name: 'Adam', age: 18},{name: 'Puto', age: 56},{name: 'Kira', age: 12}]
-    find object with age: 18 and replace it with: {name: 'Priya', age: 19}
-2*. when to use indexOf (also compare with map)
-3*. "in" keyword
-4.  best way to check if variable is array or not
-5.  best way to check if variable is string or not 
